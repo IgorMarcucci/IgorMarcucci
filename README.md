@@ -1,4 +1,4 @@
-### Olá tudo bem? Sou o Igor Marcucci!<br />
+### Olá tudo bem? Me chamo Igor Marcucci!<br />
 <br />
 Sou desenvolvedor Front-End em Flutter!<br />
 Tenho experiência em desenvolvimento Flutter e C/C++.<br />
