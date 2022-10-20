@@ -1,11 +1,18 @@
-### Olá tudo bem? Sou o Igor Marcucci!
-
-Estou estudando e me aperfeiçoando em linguagens de programação...
-Se desenvolvendo em C/C++ no momento.
-
-Esse é meu email para contato: igormarcucci1@gmail.com
-Esse é meu LinkedIn: https://www.linkedin.com/in/igor-marcucci/
-
+### Olá tudo bem? Sou o Igor Marcucci!<br />
+<br />
+Sou desenvolvedor Front-End em Flutter!<br />
+Tenho experiência em desenvolvimento Flutter e C/C++.<br />
+<br />
+Conhecimentos Flutter:<br />
+<br />
+- Desenvolvimento de layouts<br />
+- Gerência de estado<br />
+- Responsividade<br />
+- Temas de cores<br />
+<br />
+Esse é meu email para contato: igormarcucci1@gmail.com<br />
+Esse é meu LinkedIn: https://www.linkedin.com/in/igor-marcucci/<br />
+<br />
 <div align="center">
   <a href="https://github.com/IgorMarcucci">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorMarcucci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
