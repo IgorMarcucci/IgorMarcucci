@@ -1,14 +1,7 @@
 ### Olá tudo bem? Me chamo Igor Marcucci!<br />
 <br />
-Sou desenvolvedor Front-End em Flutter!<br />
-Tenho experiência em desenvolvimento Flutter e C/C++.<br />
-<br />
-Conhecimentos Flutter:<br />
-<br />
-- Desenvolvimento de layouts<br />
-- Gerência de estado<br />
-- Responsividade<br />
-- Temas de cores<br />
+Sou desenvolvedor Front-End Flutter e React.js<br />
+Tenho experiência de mercado com desenvolvimento Flutter Mobile e Web<br />
 <br />
 Esse é meu email para contato: igormarcucci1@gmail.com<br />
 Esse é meu LinkedIn: https://www.linkedin.com/in/igor-marcucci/<br />
@@ -32,5 +25,5 @@ Esse é meu LinkedIn: https://www.linkedin.com/in/igor-marcucci/<br />
   <img align="center" alt="Igor-Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Igor-Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="Igor-Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  
+  <img align="center" alt="Igor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
