@@ -18,7 +18,7 @@ Esse é meu LinkedIn: https://www.linkedin.com/in/igor-marcucci/<br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorMarcucci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarcucci&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="width: 100%; max-width: 100%; display: flex; position: relative; margin-left: auto; margin-right: auto;"><br>
+<div style="width: 100%; max-width: 100%; display: flex; position: relative; margin-left: auto; margin-right: auto; background-color: red"><br>
   <img align="center" alt="Igor-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Igor-Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Igor-LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
