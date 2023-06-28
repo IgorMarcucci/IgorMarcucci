@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá tudo bem? Seja bem vindo ao meu perfil</h2>
+  <h2>Olá tudo bem? Seja bem vindo ao meu repositório do GitHub</h2>
 </div>
 <div align="center">
   <p>Portfólio: <a href="https://igormarcucci.github.io/Portfolio_git/">https://igormarcucci.github.io/Portfolio_git/</a></p>
