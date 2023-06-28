@@ -19,7 +19,7 @@
 
 ___
 
-<div style="width: 100%; max-width: 100%; display: flex-wrap; flex-direction: row; justify-content: space-evenly"><br>
+<div align="center" style="width: 100%; max-width: 100%; display: flex-wrap; flex-direction: row; justify-content: space-evenly"><br>
   <img align="center" style="margin: 10px;" alt="Igor-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" style="margin: 10px;" alt="Igor-Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" style="margin: 10px;" alt="Igor-LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
