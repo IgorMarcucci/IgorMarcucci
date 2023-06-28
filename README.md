@@ -2,13 +2,13 @@
   <p>Olá tudo bem? Seja bem vindo ao meu perfil</p>
 </div>
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: 100%; max-width: 100%; font-size: 16px; text-align: center;">
-  <p>Portfólio: <a>https://igormarcucci.github.io/Portfolio_git/</a></p>
+  <p>Portfólio: <a href="https://igormarcucci.github.io/Portfolio_git/">https://igormarcucci.github.io/Portfolio_git/</a></p>
 </div>
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: 100%; max-width: 100%; font-size: 16px; text-align: center;">
   <p>Email para contato: <a href="mailto:igormarcucci1@gmail.com">igormarcucci1@gmail.com</a></p>
 </div>
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: 100%; max-width: 100%; font-size: 16px; text-align: center;">
-  <p>LinkedIn: <a>https://www.linkedin.com/in/igor-marcucci/</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/igor-marcucci/">https://www.linkedin.com/in/igor-marcucci/</a></p>
 </div>
 
 <div align="center">
