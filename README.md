@@ -15,8 +15,8 @@ ___
 
 <div align="center">
   <a href="https://github.com/IgorMarcucci">
-  <img height="180em" style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=IgorMarcucci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarcucci&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" style="margin: 10" src="https://github-readme-stats.vercel.app/api?username=IgorMarcucci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="margin: 10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarcucci&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ___
@@ -36,4 +36,5 @@ ___
   <img align="center" alt="Igor-Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="Igor-Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Igor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Igor-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
