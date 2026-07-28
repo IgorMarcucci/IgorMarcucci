@@ -55,10 +55,15 @@ public class IgorMarcucci {
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/asp.net_core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 
   ### Banco de Dados, DevOps & Ferramentas
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/MinIO-C72027?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
@@ -69,21 +74,21 @@ public class IgorMarcucci {
 ## 📊 Estatísticas e Desempenho
 
 <div align="center" dir="auto">
-  <a href="https://github.com/igormarcucci">
-    <img src="https://github-readme-stats.vercel.app/api?username=igormarcucci&show_icons=true&theme=tokyonight&hide_border=true" width="48%" style="max-width: 100%;" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-stats-extended.vercel.app/api?username=igormarcucci&show_icons=true&theme=tokyonight&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=igormarcucci&show_icons=true&theme=tokyonight&hide_border=true" width="48%" style="max-width: 100%;" />
   </a>
-  <a href="https://github.com/igormarcucci">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com/?user=igormarcucci&theme=tokyonight&hide_border=true">
     <img src="https://streak-stats.demolab.com/?user=igormarcucci&theme=tokyonight&hide_border=true" width="48%" style="max-width: 100%;" />
   </a>
   <br>
-  <a href="https://github.com/igormarcucci">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormarcucci&layout=compact&theme=tokyonight&hide_border=true" width="48%" style="max-width: 100%;" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-stats-extended.vercel.app/api/top-langs/?username=igormarcucci&layout=compact&theme=tokyonight&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=igormarcucci&layout=compact&theme=tokyonight&hide_border=true" width="48%" style="max-width: 100%;" />
   </a>
-  <a href="https://github.com/igormarcucci">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-activity-graph.vercel.app/graph?username=igormarcucci&theme=tokyo-night&hide_border=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=igormarcucci&theme=tokyo-night&hide_border=true" width="48%" style="max-width: 100%;" />
   </a>
   <br>
-  <a href="https://github.com/igormarcucci">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-trophy.vercel.app/?username=igormarcucci&theme=tokyonight&no-frame=true&row=1&column=7">
     <img src="https://github-profile-trophy.vercel.app/?username=igormarcucci&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" style="max-width: 100%;" />
   </a>
 </div>
