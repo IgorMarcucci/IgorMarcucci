@@ -26,8 +26,8 @@ public class IgorMarcucci {
     public void getSkills() {
         String[] frontend = {"ReactJS", "Angular"};
         String[] mobile = {"Flutter", "Dart", "React Native"};
-        String[] backend = {"Java", "Spring Boot", "C#", "ASP.NET Core"};
-        String[] devOpsAndDB = {"Docker", "PostgreSQL", "SQL Server", "MinIO", "Nginx"};
+        String[] backend = {"Java", "Spring Boot", "C#", "ASP.NET Core", "Python", "Django", "Flask"};
+        String[] devOpsAndDB = {"Docker", "PostgreSQL", "SQL Server", "Oracle SQL", "Redis", "MinIO", "Nginx"};
         String[] tools = {"n8n"};
         
         System.out.println("Construindo desde APIs robustas até interfaces mobile fluidas.");
@@ -88,9 +88,6 @@ public class IgorMarcucci {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=igormarcucci&theme=tokyo-night&hide_border=true" width="48%" style="max-width: 100%;" />
   </a>
   <br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-trophy.vercel.app/?username=igormarcucci&theme=tokyonight&no-frame=true&row=1&column=7">
-    <img src="https://github-profile-trophy.vercel.app/?username=igormarcucci&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" style="max-width: 100%;" />
-  </a>
 </div>
 
 <br>
