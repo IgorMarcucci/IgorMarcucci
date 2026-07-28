@@ -103,7 +103,7 @@ public class IgorMarcucci {
 <div align="center">
 
 <a href="https://github.com/igormarcucci" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=igormarcucci&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=igormarcucci&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/igormarcucci" target="_blank">
   <img src="https://streak-stats.demolab.com/?user=igormarcucci&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak" />
@@ -112,10 +112,10 @@ public class IgorMarcucci {
 <br>
 
 <a href="https://github.com/igormarcucci" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormarcucci&layout=compact&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igormarcucci&layout=compact&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="48%" alt="Top Languages" />
 </a>
 <a href="https://github.com/igormarcucci" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=igormarcucci&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1" width="48%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=igormarcucci&theme=tokyonight&no-frame=true&margin-w=4&column=4&row=1" width="48%" alt="Trophies" />
 </a>
 
 </div>
@@ -124,14 +124,6 @@ public class IgorMarcucci {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igormarcucci&theme=tokyo-night&hide_border=true&area=true&radius=10" width="97%" alt="Activity Graph" />
-</div>
-
-<br>
-
-## 🔥 Contribuições
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igormarcucci&theme=tokyonight" width="97%" alt="Profile Summary" />
 </div>
 
 <br>
