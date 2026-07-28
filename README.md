@@ -115,7 +115,7 @@ public class IgorMarcucci {
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igormarcucci&layout=compact&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="48%" alt="Top Languages" />
 </a>
 <a href="https://github.com/igormarcucci" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igormarcucci&theme=tokyo-night&hide_border=true&area=true&radius=10" width="4%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igormarcucci&theme=tokyo-night&hide_border=true&area=true&radius=10" width="48%" alt="Activity Graph" />
 </a>
 
 </div>
