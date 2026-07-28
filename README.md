@@ -14,8 +14,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Construindo+APIs+robustas;Interfaces+mobile+fluidas;Full+Stack+Developer;Sempre+aprendendo+algo+novo&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
-
 </div>
 
 <br>
