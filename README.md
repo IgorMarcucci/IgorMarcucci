@@ -14,14 +14,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <br><br>
-  
-  <!-- Navegação Rápida -->
-  <b>Navegação Rápida</b> <br>
-  <a href="#-sobre-mim">👨‍💻 Sobre mim</a> • 
-  <a href="#-tech-stack">🚀 Tech Stack</a> • 
-  <a href="#-projetos-em-destaque">📁 Projetos</a> • 
-  <a href="#-estatísticas">📊 Estatísticas</a>
 </div>
 
 <br>
@@ -34,9 +26,11 @@ public class IgorMarcucci {
     private final String role = "Desenvolvedor de Software";
     
     public void getSkills() {
-        String[] mobileApp = {"Flutter", "Dart"};
-        String[] backend = {"Java", "Spring Boot"};
-        String[] devOpsAndDB = {"Docker", "PostgreSQL", "Nginx"};
+        String[] frontend = {"ReactJS", "Angular"};
+        String[] mobile = {"Flutter", "Dart", "React Native"};
+        String[] backend = {"Java", "Spring Boot", "C#", "ASP.NET Core"};
+        String[] devOpsAndDB = {"Docker", "PostgreSQL", "SQL Server", "MinIO", "Nginx"};
+        String[] tools = {"n8n"};
         
         System.out.println("Construindo desde APIs robustas até interfaces mobile fluidas.");
     }
